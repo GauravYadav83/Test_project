@@ -1,0 +1,66 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Krish",
+      "region": "Delhi",
+      "category": "movie_show",
+      "day": 2,
+      "description": "Movie show for Krish. This for children as well a Adults."
+    },
+    {
+      "id": 2,
+      "name": "Fan",
+      "region": "Bombay",
+      "category": "movie_premier",
+      "day": 3,
+      "description": "Moviee Premier for Fan. This is for Adults."
+    },
+    {
+      "id": 3,
+      "name": "Jurassic Park",
+      "region": "Chandigarh",
+      "category": "movie_trailer",
+      "day": 1,
+      "description": "movie trailer for Jurassic Park. This is for children."
+    },
+    {
+      "id": 4,
+      "name": "Transformer",
+      "region": "Delhi",
+      "category": "movie_premier",
+      "day": "3",
+      "description": "Transformers Movie. A mecha movie for action filled story."
+    },
+    {
+      "id": 5,
+      "name": "trash",
+      "region": "dontknow",
+      "category": "",
+      "day": "1000",
+      "description": "This a an item which is to be deleted later."
+    },
+    {
+      "id": 6,
+      "name": "Pink Skies Ahead",
+      "region": "Delhi",
+      "category": "",
+      "day": "13",
+      "description": "American Movie. It has been a total hit. Recommended for adults."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "type": "movie_show"
+    },
+    {
+      "id": 2,
+      "type": "movie_premier"
+    },
+    {
+      "id": 3,
+      "type": "movie_trailer"
+    }
+  ]
+}
